@@ -1,0 +1,8 @@
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\bin\Debug\LINQtoJSON.exe.config
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\bin\Debug\LINQtoJSON.exe
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\bin\Debug\LINQtoJSON.pdb
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\obj\Debug\LINQtoJSON.csprojResolveAssemblyReference.cache
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\obj\Debug\LINQtoJSON.exe
+C:\Jags\DotNet\Source\LINQtoJSON\LINQtoJSON\obj\Debug\LINQtoJSON.pdb
